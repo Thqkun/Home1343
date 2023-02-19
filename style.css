@@ -15,10 +15,22 @@ body {
     background-repeat: no-repeat;
 }
 .Home {
+    background: #11b0ff;
+    display: inline-flex;
+    height: 50px;
     position: absolute;
     top: 0%;
     left: 90%;
-    font-size: 20px;
+    font-size: 23px;
+}
+.serverlist {
+    background: #11b0ff;
+    display: inline-flex;
+    height: 50px;
+    position: absolute;
+    top: 0%;
+    left: 80%;
+    font-size: 23px;
 }
 .YouTube2 {
     position: relative;
